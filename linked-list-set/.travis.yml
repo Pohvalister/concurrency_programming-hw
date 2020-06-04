@@ -1,0 +1,2 @@
+language: java
+script: travis_wait 1000 mvn test
